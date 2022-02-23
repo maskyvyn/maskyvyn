@@ -1,5 +1,5 @@
-<?php 
-	include('header.php');
+<?php
+include('header.php');
 ?>
 
 <body>
@@ -13,30 +13,19 @@
 						<div class="col-md-6">
 
 							<div class="top_left_cont intro zoomIn wow animated">
-								<h2>I’m Maky<br> <strong>Web Developer & eCommerce Manager</strong></h2>
+								<h2>I’m Maky<br> <strong>Full-Stack Web Developer & eCommerce Manager</strong></h2>
 								<p>
-									I am from planet with a passion of Web, Graphic and Interactive design.
-									I specialise in standards compliant websites with a focus on usability.
-									Enthusiastic about life, design and innovation. </p>
+									I am a Web Developer with the experience of a eCommerce Manager based on the Philippines </p>
 								<div class="underline"></div>
 								<ul class="social_links">
-									<li class="twitter animated bounceIn wow delay-02s animated"
-										style="visibility: visible; animation-name: bounceIn;"><a
-											href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
-									<li class="facebook animated bounceIn wow delay-03s animated"
-										style="visibility: visible; animation-name: bounceIn;"><a
-											href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
-									<li class="pinterest animated bounceIn wow delay-04s animated"
-										style="visibility: visible; animation-name: bounceIn;"><a
-											href="javascript:void(0)"><i class="fa fa-pinterest"></i></a></li>
-									<li class="gplus animated bounceIn wow delay-05s animated"
-										style="visibility: visible; animation-name: bounceIn;"><a
-											href="javascript:void(0)"><i class="fa fa-google-plus"></i></a></li>
+									<li class="twitter animated bounceIn wow delay-02s animated" style="visibility: visible; animation-name: bounceIn;"><a href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
+									<li class="facebook animated bounceIn wow delay-03s animated" style="visibility: visible; animation-name: bounceIn;"><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
+									<li class="gplus animated bounceIn wow delay-05s animated" style="visibility: visible; animation-name: bounceIn;"><a href="https://github.com/maskyvyn"><i class="fa fa-github"></i></a></li>
 								</ul>
 							</div>
 						</div>
 						<div class="col-md-6">
-							<img alt="" src="img/profile-pic.jpg">
+							<img alt="" src="img/Logo-Maskyvyn-Black.png">
 						</div>
 					</div>
 				</div>
@@ -51,19 +40,15 @@
 			<!--  <div class="logo"><a href="#"><img src="img/logo.png" alt="logo"></a></div>-->
 			<nav class="navbar navbar-inverse" role="navigation">
 				<div class="navbar-header">
-					<button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse"
-						data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span
-							class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+					<button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
 					</button>
 				</div>
 				<div id="main-nav" class="collapse navbar-collapse navStyle">
 					<ul class="nav navbar-nav" id="mainNav">
 						<li class="active"><a href="#hero_section" class="scroll-link">Home</a></li>
 						<li><a href="#aboutUs" class="scroll-link">About Me</a></li>
-						<li><a href="#service" class="scroll-link">Skills</a></li>
 						<li><a href="#experience" class="scroll-link">Experience</a></li>
 						<li><a href="#Portfolio" class="scroll-link">Projects</a></li>
-						<li><a href="#team" class="scroll-link">Testimonial</a></li>
 						<li><a href="#contact" class="scroll-link">Contact</a></li>
 					</ul>
 				</div>
@@ -77,263 +62,33 @@
 		<div class="inner_wrapper aboutUs-container fadeInLeft animated wow">
 			<div class="container">
 				<h2>About Me</h2>
-				<h6>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum</h6>
-				<div class="inner_section">
-					<div class="row">
-						<div class="col-lg-12 about-us">
-							<div class="row">
-								<div class="col-md-6">
-									<h3>I am desginer with passion</h3>
-									<p>
-										Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum gravida
-										tortor orci ipsum gravida tortor. Lorem ipsum dolor sit amet, tortor orci ipsum
-										gravida tortor. Lorem ipsum dolor sit amet, conseconsectetur.
-									</p>
-									<p>
-										Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum gravida
-										tortor orci ipsum gravida tortor.
-									</p>
-									<ul class="about-us-list">
-										<li class="points">Consectetur Morbi sagittis, sem quisci ipsum gravida tortor
-										</li>
-										<li class="points">Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida
-										</li>
-										<li class="points">Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem
-											quisci gravida </li>
-										<li class="points">Sagittis, sem quis lacinia faucibus, orci ipsum gravida </li>
-										<li class="points">Ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci
-										</li>
-									</ul><!-- /.about-us-list -->
-
-								</div><!-- /.col-md-6 -->
-
-								<div class="col-md-6"> <br />
-									<p>
-										Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum gravida
-										tortor orci ipsum gravida tortor. Lorem ipsum dolor sit amet, tortor orci ipsum
-										gravida tortor. Lorem ipsum dolor sit amet, conseconsectetur.
-									</p><br /><br />
-									<div class="barWrapper">
-										<span class="progressText"><B>HTML5</B></span>
-										<div class="progress">
-											<div class="progress-bar" role="progressbar" aria-valuenow="85"
-												aria-valuemin="0" aria-valuemax="100">
-												<span class="popOver" data-toggle="tooltip" data-placement="top"
-													title="85%"> </span>
-											</div>
-										</div>
-
-										<div class="barWrapper">
-											<span class="progressText"><B>CSS3</B></span>
-											<div class="progress ">
-												<div class="progress-bar" role="progressbar" aria-valuenow="75"
-													aria-valuemin="10" aria-valuemax="100">
-													<span class="popOver" data-toggle="tooltip" data-placement="top"
-														title="75%"> </span>
-												</div>
-
-											</div>
-										</div>
-
-										<div class="barWrapper">
-											<span class="progressText"><B>BOOTSRAPT</B></span>
-											<div class="progress">
-												<div class="progress-bar" role="progressbar" aria-valuenow="65"
-													aria-valuemin="0" aria-valuemax="100">
-													<span class="popOver" data-toggle="tooltip" data-placement="top"
-														title="65%"> </span>
-												</div>
-											</div>
-										</div>
-										<div class="barWrapper">
-											<span class="progressText"><B>JQUERY</B></span>
-											<div class="progress">
-												<div class="progress-bar" role="progressbar" aria-valuenow="55"
-													aria-valuemin="0" aria-valuemax="100">
-													<span class="popOver" data-toggle="tooltip" data-placement="top"
-														title="55%"> </span>
-												</div>
-											</div>
-										</div>
-
-									</div>
-								</div><!-- /.col-md-6 -->
-							</div><!-- /.row -->
-						</div><!-- /.col-lg-12 -->
-					</div>
-
-				</div>
+				<h6>I'm Maky, a passionate freelancer bringing you programming and design from the future. I am experienced in developing web including front-end and back-end and also managing eCommerce websites.</h6>
 			</div>
 		</div>
 	</section>
 	<!--Aboutus-->
 
-
-	<!--Service-->
-	<section id="service">
-		<div class="container">
-			<h2>Skills</h2>
-			<h6>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum</h6>
-			<div class="service_wrapper">
-				<div class="row">
-					<div class="col-md-3">
-						<div class="service_icon delay-03s animated wow  zoomIn"> <span><i
-									class="fa fa-android"></i></span> </div>
-						<div class="service_block">
-
-							<h3 class="animated fadeInUp wow">Android</h3>
-							<p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. </p>
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><i
-									class="fa fa-apple"></i></span> </div>
-						<div class="service_block">
-							<h3 class="animated fadeInUp wow">Apple IOS</h3>
-							<p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. </p>
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><i
-									class="fa fa-html5"></i></span> </div>
-						<div class="service_block">
-
-							<h3 class="animated fadeInUp wow">Design</h3>
-							<p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. </p>
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><i
-									class="fa fa-user"></i></span> </div>
-						<div class="service_block">
-
-							<h3 class="animated fadeInUp wow">Development</h3>
-							<p class="animated fadeInDown wow">Lorem Ipsum is simply dummy text of the printing and
-								typesetting industry. </p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--Service-->
-
-
-
-
 	<section id="experience" class="timeline">
 		<div class="container">
 			<h2>Experience</h2>
-			<h6>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum</h6>
 			<div class="qa-message-list" id="wallmessages">
-				<div class="message-item" id="m16">
-					<div class="message-inner">
-						<div class="message-head clearfix">
-							<div class="user-detail">
-								<h5 class="handle">Yahoo Technology</h5>
-								<div class="post-meta">
-									<div class="asker-meta">
-										<span class="qa-message-what"></span>
-										<span class="qa-message-when">
-											<span class="qa-message-when-data">Jan 21</span>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="qa-message-content">
-							Yo!
-						</div>
-					</div>
-				</div>
-
-				<div class="message-item" id="m9">
-					<div class="message-inner">
-						<div class="message-head clearfix">
-							<div class="user-detail">
-								<h5 class="handle">Google Labs</h5>
-								<div class="post-meta">
-									<div class="asker-meta">
-										<span class="qa-message-what"></span>
-										<span class="qa-message-when">
-											<span class="qa-message-when-data">Nov 24, 2013</span>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="qa-message-content">
-							Nice theme . Excellent one .
-						</div>
-					</div>
-				</div>
-
-				<div class="message-item" id="m7">
-					<div class="message-inner">
-						<div class="message-head clearfix">
-							<div class="user-detail">
-								<h5 class="handle">Microsoft</h5>
-								<div class="post-meta">
-									<div class="asker-meta">
-										<span class="qa-message-what"></span>
-										<span class="qa-message-when">
-											<span class="qa-message-when-data">Oct 25, 2013</span>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="qa-message-content">
-							Nullam porta leo vitae ipsum feugiat viverra. In sed placerat mi. Nullam euismod, quam in
-							euismod rhoncus, tellus velit posuere tortor, non cursus nunc velit et lacus.
-						</div>
-					</div>
-				</div>
-
-				<div class="message-item" id="m6">
-					<div class="message-inner">
-						<div class="message-head clearfix">
-							<div class="user-detail">
-								<h5 class="handle">Apple</h5>
-								<div class="post-meta">
-									<div class="asker-meta">
-										<span class="qa-message-what"></span>
-										<span class="qa-message-when">
-											<span class="qa-message-when-data">Oct 24, 2013</span>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="qa-message-content">
-							Integer vitae arcu vitae ligula Cras vestibulum suscipit odio ac dapibus. In hac habitasse
-							platea dictumst. Cras pulvinar erat et nunc fringilla, quis molestie
-						</div>
-					</div>
-				</div>
-
 				<div class="message-item" id="m5">
 					<div class="message-inner">
 						<div class="message-head clearfix">
 							<div class="user-detail">
-								<h5 class="handle">Facebook</h5>
+								<h5 class="handle">Authenticph.com & Townoftrendsph.com</h5>
 								<div class="post-meta">
 									<div class="asker-meta">
 										<span class="qa-message-what"></span>
 										<span class="qa-message-when">
-											<span class="qa-message-when-data">Oct 24, 2013</span>
+											<span class="qa-message-when-data">June, 2021</span>
 										</span>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="qa-message-content">
-							Nulla dui ante, pulvinar ac auctor vitae, sollicitudin et tortor. Cras vestibulum suscipit
-							odio ac dapibus. In hac habitasse platea dictumst. Cras pulvinar erat et nunc fringilla,
-							quis molestie diam pulvinar.
+							I'm the developer and manager of Authentic Ph and Town of Trends Ph
 						</div>
 					</div>
 				</div>
@@ -342,21 +97,19 @@
 					<div class="message-inner">
 						<div class="message-head clearfix">
 							<div class="user-detail">
-								<h5 class="handle">WhatsApp</h5>
+								<h5 class="handle">EcomXmarketing.com</h5>
 								<div class="post-meta">
 									<div class="asker-meta">
 										<span class="qa-message-what"></span>
 										<span class="qa-message-when">
-											<span class="qa-message-when-data">Oct 24, 2013</span>
+											<span class="qa-message-when-data">Feb, 2021</span>
 										</span>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="qa-message-content">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus fermentum iaculis mi, non
-							dapibus nulla eleifend sed. Etiam ac commodo leo. <br>
-							Donec non sem id tellus mattis convallis. Morbi dapibus nulla ac dui lacinia,
+							Im a co-founder of EcomXmarketing.com
 						</div>
 					</div>
 				</div>
@@ -365,21 +118,19 @@
 					<div class="message-inner">
 						<div class="message-head clearfix">
 							<div class="user-detail">
-								<h5 class="handle">XBox Games</h5>
+								<h5 class="handle">CottonandCandy</h5>
 								<div class="post-meta">
 									<div class="asker-meta">
 										<span class="qa-message-what"></span>
 										<span class="qa-message-when">
-											<span class="qa-message-when-data">Oct 24, 2013</span>
+											<span class="qa-message-when-data">June, 2020</span>
 										</span>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="qa-message-content">
-							Suspendisse varius mi consectetur nulla volutpat, nec fermentum turpis vehicula. Curabitur
-							dapibus odio mauris, vitae accumsan sapien auctor non. Duis tempus ante id nulla vestibulum
-							mattis.
+							I work as eCommerce manager in cottonandcandy.com
 						</div>
 					</div>
 				</div>
@@ -388,21 +139,19 @@
 					<div class="message-inner">
 						<div class="message-head clearfix">
 							<div class="user-detail">
-								<h5 class="handle">InfoSys</h5>
+								<h5 class="handle">Freelancer</h5>
 								<div class="post-meta">
 									<div class="asker-meta">
 										<span class="qa-message-what"></span>
 										<span class="qa-message-when">
-											<span class="qa-message-when-data">Oct 24, 2013</span>
+											<span class="qa-message-when-data">March, 2020</span>
 										</span>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="qa-message-content">
-							Nunc ante neque, feugiat at dictum ut, dignissim sed sapien. Pellentesque congue eu nisl sit
-							amet cursus. Integer dapibus adipiscing metus ac vehicula. Lorem ipsum dolor sit amet,
-							consectetur adipiscing elit.
+							I do gigs and freelance job as a Graphic Designer and Front-end web developer.
 						</div>
 					</div>
 				</div>
@@ -411,23 +160,19 @@
 					<div class="message-inner">
 						<div class="message-head clearfix">
 							<div class="user-detail">
-								<h5 class="handle">Accenture</h5>
+								<h5 class="handle">Virtual Assistant</h5>
 								<div class="post-meta">
 									<div class="asker-meta">
 										<span class="qa-message-what"></span>
 										<span class="qa-message-when">
-											<span class="qa-message-when-data">Oct 24, 2013</span>
+											<span class="qa-message-when-data">Oct 24, 2019</span>
 										</span>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="qa-message-content">
-							Nunc ante neque, feugiat at dictum ut, dignissim sed sapien. Pellentesque congue eu nisl sit
-							amet cursus. Integer dapibus adipiscing metus ac vehicula. Lorem ipsum dolor sit amet,
-							consectetur adipiscing elit. Phasellus fermentum iaculis mi, non dapibus nulla eleifend sed.
-							Etiam ac commodo leo. Donec non sem id tellus mattis convallis. Morbi dapibus nulla ac dui
-							lacinia,
+							I work for almost 6 months a Virtual Assistant of an eCommmerce website.
 						</div>
 					</div>
 				</div>
@@ -445,7 +190,6 @@
 			<!-- Title -->
 			<div class="section-title">
 				<h2>Projects</h2>
-				<h6>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum</h6>
 
 			</div>
 			<!--/Title -->
@@ -464,39 +208,27 @@
 							<h5>All</h5>
 						</a></li>
 					<li><a class="" href="#" data-filter=".prototype">
-							<h5>Prototype</h5>
+							<h5>Website</h5>
 						</a></li>
 					<li><a class="" href="#" data-filter=".design">
 							<h5>Design</h5>
-						</a></li>
-					<li><a class="" href="#" data-filter=".android">
-							<h5>Android</h5>
-						</a></li>
-					<li><a class="" href="#" data-filter=".appleIOS">
-							<h5>Apple IOS</h5>
-						</a></li>
-					<li><a class="" href="#" data-filter=".web">
-							<h5>Web App</h5>
 						</a></li>
 				</ul>
 			</div>
 			<!--/Portfolio Filters -->
 
 			<!-- Portfolio Wrapper -->
-			<div class="isotope fadeInLeft animated wow grid"
-				style="position: relative; overflow: hidden; height: 480px;" id="portfolio_wrapper">
+			<div class="isotope fadeInLeft animated wow grid" style="position: relative; overflow: hidden; height: 480px;" id="portfolio_wrapper">
 				<!-- Portfolio Item -->
-				<figure
-					style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;"
-					class="portfolio-item one-four   appleIOS isotope-item effect-oscar">
+				<figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four   prototype isotope-item effect-oscar">
 
 					<div class="portfolio_img">
-						<img src="img/portfolio_pic1.jpg" alt="Portfolio 1">
+						<img src="img/steaminmugs.png" alt="Portfolio 1">
 					</div>
 					<figcaption>
 						<div>
-							<a href="img/portfolio_pic1.jpg" class="fancybox">
-								<h2>Warm <span>Oscar</span></h2>
+							<a href="https://www.steaminmugsph.cf" target="_blank" class="fancybox">
+								<h2>SteaminMugs<span></span></h2>
 							</a>
 						</div>
 					</figcaption>
@@ -504,14 +236,12 @@
 				<!--/Portfolio Item -->
 
 				<!-- Portfolio Item-->
-				<figure
-					style="position: absolute; left: 0px; top: 0px; transform: translate3d(337px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;"
-					class="portfolio-item one-four  design isotope-item effect-oscar">
-					<div class="portfolio_img"> <img src="img/portfolio_pic2.jpg" alt="Portfolio 1"> </div>
+				<figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(337px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  design isotope-item effect-oscar">
+					<div class="portfolio_img"> <img src="img/design_4.jpg" alt="Portfolio 1"> </div>
 					<figcaption>
 						<div>
-							<a href="img/portfolio_pic2.jpg" class="fancybox">
-								<h2>Warm <span>Oscar</span></h2>
+							<a href="img/design_4.jpg" class="fancybox">
+								<h2>Time Material <span></span></h2>
 							</a>
 						</div>
 					</figcaption>
@@ -519,94 +249,49 @@
 				<!--/Portfolio Item -->
 
 				<!-- Portfolio Item -->
-				<figure
-					style="position: absolute; left: 0px; top: 0px; transform: translate3d(674px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;"
-					class="portfolio-item one-four  design  isotope-item effect-oscar">
-					<div class="portfolio_img"> <img src="img/portfolio_pic3.jpg" alt="Portfolio 1"> </div>
+				<figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(674px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  design  isotope-item effect-oscar">
+					<div class="portfolio_img"> <img src="img/design_3.jpg" alt="Portfolio 1"> </div>
 					<figcaption>
 						<div>
-							<a href="img/portfolio_pic3.jpg" class="fancybox">
-								<h2>Warm <span>Oscar</span></h2>
+							<a href="img/design_3.jpg" class="fancybox">
+								<h2>Bejeweled <span></span></h2>
 							</a>
 						</div>
 					</figcaption>
 				</figure>
 				<!--/Portfolio Item-->
 
-				<!-- Portfolio Item-->
-				<figure
-					style="position: absolute; left: 0px; top: 0px; transform: translate3d(1011px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;"
-					class="portfolio-item one-four  android  prototype web isotope-item effect-oscar">
-					<div class="portfolio_img"> <img src="img/portfolio_pic4.jpg" alt="Portfolio 1"> </div>
-					<figcaption>
-						<div>
-							<a href="img/portfolio_pic4.jpg" class="fancybox">
-								<h2>Warm <span>Oscar</span></h2>
-							</a>
-						</div>
-					</figcaption>
-				</figure>
-				<!-- Portfolio Item -->
+		
 
 				<!-- Portfolio Item -->
-				<figure
-					style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 240px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;"
-					class="portfolio-item one-four  design isotope-item effect-oscar">
-					<div class="portfolio_img"> <img src="img/portfolio_pic5.jpg" alt="Portfolio 1"> </div>
+				<figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 240px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  design isotope-item effect-oscar">
+					<div class="portfolio_img"> <img src="img/design_1.jpg" alt="Portfolio 1"> </div>
 					<figcaption>
 						<div>
-							<a href="img/portfolio_pic5.jpg" class="fancybox">
-								<h2>Warm <span>Oscar</span></h2>
+							<a href="img/design_1.jpg" class="fancybox">
+								<h2>AuthenticPH</h2>
 							</a>
 						</div>
 					</figcaption>
 				</figure>
 				<!--/Portfolio Item -->
 
-				<!-- Portfolio Item -->
-				<figure
-					style="position: absolute; left: 0px; top: 0px; transform: translate3d(337px, 240px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;"
-					class="portfolio-item one-four  web isotope-item effect-oscar">
-					<div class="portfolio_img"> <img src="img/portfolio_pic6.jpg" alt="Portfolio 1"> </div>
-					<figcaption>
-						<div>
-							<a href="img/portfolio_pic6.jpg" class="fancybox">
-								<h2>Warm <span>Oscar</span></h2>
-							</a>
-						</div>
-					</figcaption>
-				</figure>
-				<!--/Portfolio Item -->
+			
 
 				<!-- Portfolio Item  -->
-				<figure
-					style="position: absolute; left: 0px; top: 0px; transform: translate3d(674px, 240px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;"
-					class="portfolio-item one-four  design web isotope-item effect-oscar">
-					<div class="portfolio_img"> <img src="img/portfolio_pic7.jpg" alt="Portfolio 1"> </div>
+				<figure style="position: absolute; left: 0px; top: 0px; transform: translate3d(674px, 240px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  design web isotope-item effect-oscar">
+					<div class="portfolio_img"> <img src="img/design_2.jpg" alt="Portfolio 1"> </div>
 					<figcaption>
 						<div>
-							<a href="img/portfolio_pic7.jpg" class="fancybox">
-								<h2>Warm <span>Oscar</span></h2>
+							<a href="img/design_2.jpg" class="fancybox">
+								<h2>Mystery Promo</h2>
 							</a>
 						</div>
 					</figcaption>
 				</figure>
 				<!--/Portfolio Item -->
 
-				<!-- Portfolio Item -->
-				<figure
-					style="position: absolute; left: 0px; top: 0px; transform: translate3d(1011px, 240px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;"
-					class="portfolio-item one-four   android isotope-item effect-oscar">
-					<div class="portfolio_img"> <img src="img/portfolio_pic8.jpg" alt="Portfolio 1"> </div>
-					<figcaption>
-						<div>
-							<a href="img/portfolio_pic8.jpg" class="fancybox">
-								<h2>Warm <span>Oscar</span></h2>
-							</a>
-						</div>
-					</figcaption>
-				</figure>
-				<!--/Portfolio Item -->
+				
 
 			</div>
 			<!--/Portfolio Wrapper -->
@@ -626,58 +311,8 @@
 	</section>
 	<!--/Portfolio -->
 
-
-	<section class="page_section team" id="team">
-		<!--main-section team-start-->
-		<div class="container">
-			<h2>Testimonial</h2>
-			<h6>Lorem ipsum dolor sit amet, consectetur adipiscing.</h6>
-
-			<div id="team" name="team">
-				<div class="container">
-					<div class="row centered">
-
-						<div class="col-md-3 centered"> <img class="img img-circle lt-box" src="img/team01.jpg"
-								height="120px" width="120px" alt="">
-							<div class="rt-box">
-								<h4><strong>Rosy Illue</strong></h4>
-								<p>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum gravida
-									tortor.</p><br />
-							</div>
-						</div>
-						<div class="col-md-3 centered"> <img class="img img-circle lt-box" src="img/team02.jpg"
-								height="120px" width="120px" alt="">
-							<div class="rt-box">
-								<h4><strong>Nissy Yukjk</strong></h4>
-								<p>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum gravida
-									tortor.</p><br />
-							</div>
-						</div>
-						<div class="col-md-3 centered"> <img class="img img-circle lt-box" src="img/team03.jpg"
-								height="120px" width="120px" alt="">
-							<div class="rt-box">
-								<h4><strong>Fsdf Efffl</strong></h4>
-								<p>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum gravida
-									tortor.</p><br />
-							</div>
-						</div>
-						<div class="col-md-3 centered"> <img class="img img-circle lt-box" src="img/team04.jpg"
-								height="120px" width="120px" alt="">
-							<div class="rt-box">
-								<h4><strong>Mnin Nulk</strong></h4>
-								<p>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum gravida
-									tortor.</p><br />
-							</div>
-						</div>
-
-					</div>
-				</div>
-				<!-- row -->
-			</div>
-		</div>
-	</section>
 	<!--/Team-->
 	<!--Footer-->
-	<?php 
-		include('footer.php');
+	<?php
+	include('footer.php');
 	?>

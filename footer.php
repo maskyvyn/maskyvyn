@@ -3,23 +3,21 @@
 			<section class="page_section contact" id="contact">
 				<div class="contact_section">
 					<h2>Get In Touch</h2>
-					<h6>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum</h6>
-
 				</div>
 				<div class="row">
 					<div class="col-lg-4 wow fadeInLeft">
 						<div class="contact_info">
 							<div class="detail">
-								<h4>Johnatan</h4>
-								<p>104, Some street, NewYork, USA</p>
+								<h4>Maky Vinarao</h4>
+								<p>Pangarap Village, Caloocan City, Metro Manila, Philippines</p>
 							</div>
 							<div class="detail">
-								<h4>call us</h4>
-								<p>+1 234 567890</p>
+								<h4>Call Me</h4>
+								<p>+63 906-335-5808</p>
 							</div>
 							<div class="detail">
-								<h4>Email us</h4>
-								<p>support@sitename.com</p>
+								<h4>Email Me</h4>
+								<p>makyvinarao@gmail.com</p>
 							</div>
 						</div>
 
@@ -30,14 +28,11 @@
 										class="fa fa-twitter"></i></a></li>
 							<li class="facebook animated bounceIn wow delay-03s"><a href="javascript:void(0)"><i
 										class="fa fa-facebook"></i></a></li>
-							<li class="pinterest animated bounceIn wow delay-04s"><a href="javascript:void(0)"><i
-										class="fa fa-pinterest"></i></a></li>
-							<li class="gplus animated bounceIn wow delay-05s"><a href="javascript:void(0)"><i
-										class="fa fa-google-plus"></i></a></li>
+							<li class="gplus animated bounceIn wow delay-05s"><a href="https://github.com/maskyvyn"><i
+										class="fa fa-github"></i></a></li>
 						</ul>
 					</div>
 					<div class="col-lg-8 wow fadeInLeft delay-06s">
-						<!--NOTE: Update your email Id in "contact_me.php" file in order to receive emails from your contact form-->
 
 						<form name="sentMessage" id="contactForm" novalidate>
 							<div class="control-group">
@@ -63,6 +58,7 @@
 										style="resize:none"></textarea>
 								</div>
 							</div>
+							<br></br>
 							<div id="success"> </div> <!-- For success/fail messages -->
 							<button type="submit" class="btn btn-primary pull-right">Send</button><br />
 						</form>

@@ -2372,3 +2372,9 @@ display:none;
 }
 .rt-box {/* float: left; *//* width: 88%; */text-align: left;margin-left: 10px;margin-bottom: 25px;text-align: center;}
 img.img.img-circle.lt-box {/* float: left; */width: 64px;height: auto;}
+
+#experience {
+    padding: 80px 0px;
+    background: #fcfcfc;
+    border: 1px dashed #cfcfcf;
+}
